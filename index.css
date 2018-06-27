@@ -1,0 +1,76 @@
+
+#container {
+    width: 600px;
+    height: 600px;
+    position: relative;
+    margin: auto;
+    background-color: FFF;
+
+}
+
+.grey {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    background-color: #CCCBC6;
+    margin: 5px;
+    
+  
+    display:inline-block;
+}
+
+.pink {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    background-color: #FF4692;
+    margin: 5px;
+    
+    display:inline-block;
+}
+
+.gold {
+    width: 180px;
+    height: 180px;
+    position: relative;
+    background-color: #EFE209;
+    margin: 5px;
+    display:inline-block;
+}
+
+.pinkcircle {
+    width: 66%;
+    height: 66%;
+    position: relative;
+    margin: auto;
+        margin-top: 15%;
+
+    background-color: #FF4692;
+    border:2px solid black;
+    border-radius: 100%;
+
+}
+
+.greycircle {
+    width: 66%;
+    height: 66%;
+    position: relative;
+    margin: auto;
+        margin-top: 15%;
+
+    background-color: #CCCBC6;
+    border:2px solid black;
+    border-radius: 100%;
+
+}
+
+.circle {
+    width: 66%;
+    height: 66%;
+    position: relative;
+    margin: auto;
+    margin-top: 15%;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Sabaoth_icon_%28Russia%2C_19_c.%29_2.jpeg/220px-Sabaoth_icon_%28Russia%2C_19_c.%29_2.jpeg) center;
+    border:2px solid black;
+    border-radius: 100%;
+}
